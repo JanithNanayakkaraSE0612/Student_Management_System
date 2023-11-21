@@ -1,5 +1,8 @@
 package home.model;
 
+package com.calendarfx.model;
+
+// Rest of your code
 
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;

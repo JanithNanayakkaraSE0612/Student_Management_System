@@ -1,6 +1,6 @@
 package home.model;
 
-package com.calendarfx.model;
+
 
 // Rest of your code
 
